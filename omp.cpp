@@ -5,9 +5,9 @@ using namespace std;
 
 int main(){
 
-#pragma omp parallel num_threads(4)
+#pragma omp parallel num_threads(20)
     {
-    cout << "Hello World!\n";
+    cout << "Hello World!" << endl;
     }
     return 0;
 
