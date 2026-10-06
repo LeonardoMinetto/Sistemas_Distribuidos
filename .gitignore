@@ -1,6 +1,9 @@
-graficos.swp
+# Executáveis
 getTime
 numPrimos
 omp
 parallel
-seraial
+serial
+
+# Arquivos temporários
+*.swp
