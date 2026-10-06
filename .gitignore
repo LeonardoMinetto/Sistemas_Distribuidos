@@ -1,9 +1,0 @@
-# Executáveis
-getTime
-numPrimos
-omp
-parallel
-serial
-
-# Arquivos temporários
-*.swp
