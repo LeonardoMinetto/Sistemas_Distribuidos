@@ -1,6 +1,6 @@
 #include <iostream>
 #include <omp.h>
-//compilar: g++ omp.gpp -o omp -fopenmp
+
 using namespace std;
 
 int main(){
