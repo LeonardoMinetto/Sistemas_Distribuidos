@@ -1,0 +1,3 @@
+- pra compilar: g++ nomearquivo.cpp -o nomearquivo -fopenmp ou usando make
+- função get_w_time
+- "using namespace std" facilita a programação 
